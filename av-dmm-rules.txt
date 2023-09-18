@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN,www.dmm.co.jp
+  - DOMAIN,digstatic.dmm.com
+  - DOMAIN,cdj.dap.dmm.co.jp
+  - DOMAIN,assets.digstatic.dmm.com
+  - DOMAIN,cn.dap.dmm.co.jp
+  - DOMAIN,api.notification.dmm.co.jp
+  - DOMAIN,p.dmm.co.jp
+  - DOMAIN,p.dmm.com
+  - DOMAIN,special.dmm.co.jp
+  - DOMAIN,cdn.dap.dmm.co.jp
+  - DOMAIN,tag-api.dmm.com

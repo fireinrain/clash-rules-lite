@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,10musume.com
+  - DOMAIN-SUFFIX,1pondo.tv
+  - DOMAIN-SUFFIX,aventertainments.com
+  - DOMAIN-SUFFIX,caribbeancom.com
+  - DOMAIN-SUFFIX,dmmav.top
+  - DOMAIN-SUFFIX,heyzo.com
+  - DOMAIN-SUFFIX,legsjapan.com
+  - DOMAIN-SUFFIX,pacopacomama.com
+  - DOMAIN-SUFFIX,tokyo-hot.com
+  - DOMAIN-SUFFIX,mgstage.com
