@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,cc3001.dmm.co.jp
+  - DOMAIN-SUFFIX,javdb008.com
+  - DOMAIN-SUFFIX,javbus.lol
